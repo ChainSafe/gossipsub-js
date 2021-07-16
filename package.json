@@ -70,7 +70,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
     "it-pair": "^1.0.0",
-    "libp2p": "next",
+    "libp2p": "^0.32.0",
     "libp2p-floodsub": "^0.27.0",
     "libp2p-interfaces-compliance-tests": "^1.0.1",
     "libp2p-mplex": "^0.10.3",
